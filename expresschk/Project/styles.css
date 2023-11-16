@@ -1,0 +1,83 @@
+
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url('webdev.jpg');
+  }
+
+  .content {
+    margin: 20px;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color:beige;
+  }
+  
+  nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 20px;
+    color: whitesmoke;
+  }
+  
+  .content {
+    margin: 20px;
+  }
+  
+  h1 {
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  p {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  form {
+    margin-top: 30px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+.form-label {
+color: black;
+}
+  input,
+  textarea,
+  button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: black;
+    color: black;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
